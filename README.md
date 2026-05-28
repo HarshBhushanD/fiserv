@@ -250,18 +250,4 @@ POST /api/risk/analyze
 * ⚙️ Dynamic rule configuration
 * 🎙️ Voice-enabled financial assistant
 
----
-
-# 👨‍💻 Author
-
-### Harsh Bhushan Dixit
-
-* MERN Stack Developer
-* Cloud & Full Stack Enthusiast
-* Co-Founder — Connect SRM
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
+-
